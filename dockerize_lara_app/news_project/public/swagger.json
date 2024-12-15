@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "paths": {
+        "/api/users": {
+            "get": {
+                "summary": "Get a list of users",
+                "operationId": "566aed8efb436ca506e0ef51a032ecd9",
+                "responses": {
+                    "200": {
+                        "description": "A list of users"
+                    }
+                }
+            }
+        }
+    }
+}
